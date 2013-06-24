@@ -1,4 +1,6 @@
 Visualize::Application.routes.draw do
+  get "order/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
